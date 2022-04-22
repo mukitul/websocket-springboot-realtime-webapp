@@ -19,3 +19,12 @@ application level protocol ensuring interoperability across languages
 and platforms. STOMP provides different methods for messaging that are 
 related with Websockets. 
 STOMP methods are - connect(), subscribe(), send(), onmessage() etc.
+
+## Sample Project - ***Real time Chat App for Hotel***
+
+### Participants in Chat
+
+### Types of Chat
+- guest to guest
+- guest to host
+- host to venue
