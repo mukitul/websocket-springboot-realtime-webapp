@@ -16,6 +16,6 @@ Websocket is low level protocol mostly used for communication purpose
 between web-browser and server, so at application level STOMP (Simple 
 Text Oriented Messaging Protocol) is used for messaging. STOMP is an
 application level protocol ensuring interoperability across languages
-and platforms. STOP provides different methods for messaging that are 
+and platforms. STOMP provides different methods for messaging that are 
 related with Websockets. 
 STOMP methods are - connect(), subscribe(), send(), onmessage() etc.
